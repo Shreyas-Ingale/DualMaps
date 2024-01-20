@@ -25,7 +25,7 @@ const Map1 = ({setMap1Object}) => {
         zoom: 6
       }),
     });
-    console.log(map1Container.current);
+    
     map1.setTarget(map1Container.current);
     setMap1Object(map1);
 
