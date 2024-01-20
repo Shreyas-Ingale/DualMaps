@@ -15,8 +15,7 @@ function DualMap() {
     if(!map1Object && !map2Object) return;
     var synchronize_12 = new Synchronize({ maps: [map2Object] });
     var synchronize_21 = new Synchronize({ maps: [map1Object] });
-    console.log(map1Object);
-    console.log(map2Object);
+    
     map1Object.addInteraction( synchronize_12 );
     map2Object.addInteraction( synchronize_21 );
 
