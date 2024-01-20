@@ -32,7 +32,7 @@ const Map2 = ({setMap2Object}) => {
         zoom: 6
       }),
     });
-    console.log(map2Container.current);
+    
     map2.setTarget(map2Container.current);
     setMap2Object(map2);
 
