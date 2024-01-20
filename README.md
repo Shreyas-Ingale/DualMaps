@@ -13,7 +13,7 @@ A simple Next.js project demonstrating how to integrate OpenLayers and ol-ext to
 
 ## Introduction
 
-This project showcases how to use Next.js along with OpenLayers and ol-ext to create a web application with a dynamic dual map layout. It includes two map components, `MapA` and `MapB`, each displaying a simple OpenStreetMap layer.
+This project showcases how to use Next.js along with OpenLayers and ol-ext to create a web application with a dynamic dual map layout. It includes two map components, `Map1` and `Map2`, each displaying a simple OpenStreetMap layer.
 
 ## Getting Started
 
